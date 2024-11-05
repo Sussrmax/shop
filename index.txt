@@ -1,0 +1,36 @@
+创建 index 文件，--2024.11.5
+
+
+
+
+# include <bits/stdc++.h>
+
+
+using namespcae std;
+
+
+int main(){
+
+
+   cout << " Hello Wolrd " << endl;
+
+
+创建 index 文件，--2024.11.5
+
+
+
+
+# include <bits/stdc++.h>
+
+
+using namespcae std;
+
+
+int main(){
+
+
+   cout << " Hello Wolrd " << endl;
+
+
+return 0;
+}
